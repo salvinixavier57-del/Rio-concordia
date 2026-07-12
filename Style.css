@@ -1,1 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #eaf6ff;
+    color: #003366;
+}
 
+header {
+    background: #0077cc;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+section {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.estado {
+    font-size: 24px;
+    font-weight: bold;
+    color: #008000;
+}
